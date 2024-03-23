@@ -20,6 +20,6 @@
   },
   "devDependencies": {
     "@chakra-ui/react": "2.2.2",
-    "gatsby": "^3.0.0"
+    "gatsby": "^4.25.7"
   }
 }
